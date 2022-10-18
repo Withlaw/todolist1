@@ -1,5 +1,8 @@
 # todolist1
 
+Language: HTML / CSS / Javascript
+Build Tool: Parcel
+
 구현 기능: 
   1. 새 메모 입력
   2. 기존 메모 삭제
